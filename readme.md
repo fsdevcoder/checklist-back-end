@@ -24,3 +24,7 @@
         "average keywords density": 0.10
     }
     ```
+- Unit Testing
+    ```
+    php bin/phpunit
+    ```
