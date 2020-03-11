@@ -3,8 +3,8 @@
 ### Project setup and testing
 - *composer install*
 - *symfony server:start*
-- edit minimum number of words in *config/services.yaml*
-- edit parameters/settings in *config/servgices.yaml*:
+- edit minimum number of words in `config/services.yaml`
+- edit parameters/settings in `config/services.yaml`:
     ```
     checklist.settings.keywords: banana, apple
     checklist.settings.min_number_of_words: 10
