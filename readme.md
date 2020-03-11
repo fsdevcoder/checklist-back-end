@@ -1,8 +1,8 @@
 # Back-end test using Symfony, REST API, Parameters, Unit Testing
 
 ### Project setup and testing
-- *composer install*
-- *symfony server:start*
+- `composer install`
+- `symfony server:start`
 - edit minimum number of words in `config/services.yaml`
 - edit parameters/settings in `config/services.yaml`:
     ```
